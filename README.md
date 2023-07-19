@@ -35,19 +35,19 @@ Here, you will find information about the services I offer, featured projects I 
 ## Features
 
 1. Home Page:
-2. 
+   
    - Hero section with a brief introduction.
    - Social media links to connect with me.
    - Featured project cards with descriptions.
    - Testimonial section showcasing brands I have worked with.
 
 3. Services Page:
-4. 
+   
    - Specialized in UI/UX Design, Application Development, and Web Development.
    - Details about each service with icons.
 
 5. Portfolio Page:
-6. 
+   
    - Featured portfolios with descriptions.
    - Read More buttons linking to project details.
 
@@ -57,9 +57,11 @@ Here, you will find information about the services I offer, featured projects I 
    - Learning path and education background.
 
 8. Personal Blog Page:
+   
    - Articles on design, development, and productivity tips.
 
-9. Contact Page:
+10. Contact Page:
+    
    - Contact form to get in touch.
 
 ## Getting Started
