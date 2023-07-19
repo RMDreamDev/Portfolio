@@ -1,6 +1,6 @@
 # Portfolio Website 
+![image](https://github.com/RMDreamDev/Portfolio/assets/135339602/38dc75e7-2eab-4a80-9ca2-70c2b3039ebe)
 
-![image](https://github.com/RMDreamDev/Portfolio/assets/135339602/405c110d-4c6c-4a88-b84f-bd9ebeafd5d6)
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and experiences as a creative front-end developer.
 Please note that some details presented here are fictional and used for illustrative purposes.
@@ -68,7 +68,6 @@ git clone <repository-url>
 2. Open the `index.html` file in your web browser.
 
 ## How to Use
-![image](https://github.com/RMDreamDev/Portfolio/assets/135339602/08e93e16-b1c0-4ff4-8851-c000bd48cd7f)
 
 - Navigate through the pages using the navigation menu.
 - Click on the social media icons to connect with me.
