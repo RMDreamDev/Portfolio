@@ -1,9 +1,13 @@
 # Portfolio Website 
-![image](https://github.com/RMDreamDev/Portfolio/assets/135339602/38dc75e7-2eab-4a80-9ca2-70c2b3039ebe)
+![image](https://github.com/RMDreamDev/Portfolio/assets/135339602/baa36d17-6bb4-40c2-837f-c016fb7c4f4c)
+
 
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and experiences as a creative front-end developer.
 Please note that some details presented here are fictional and used for illustrative purposes.
+
+![image](https://github.com/RMDreamDev/Portfolio/assets/135339602/e4faea6e-4c75-4daa-9a31-946624744cb0)
+
 
 ## Table of Contents
 
@@ -31,29 +35,31 @@ Here, you will find information about the services I offer, featured projects I 
 ## Features
 
 1. Home Page:
+2. 
    - Hero section with a brief introduction.
    - Social media links to connect with me.
    - Featured project cards with descriptions.
    - Testimonial section showcasing brands I have worked with.
 
-2. Services Page:
+3. Services Page:
+4. 
    - Specialized in UI/UX Design, Application Development, and Web Development.
    - Details about each service with icons.
 
-3. Portfolio Page:
+5. Portfolio Page:
+6. 
    - Featured portfolios with descriptions.
    - Read More buttons linking to project details.
 
-4. Career & Education Page:
-   ![image](https://github.com/RMDreamDev/Portfolio/assets/135339602/d6f1f068-9eaf-4ec5-991f-6959c0b7f408)
+7. Career & Education Page:
 
    - Awards and recognitions received.
    - Learning path and education background.
 
-6. Personal Blog Page:
+8. Personal Blog Page:
    - Articles on design, development, and productivity tips.
 
-7. Contact Page:
+9. Contact Page:
    - Contact form to get in touch.
 
 ## Getting Started
